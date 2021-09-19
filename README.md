@@ -2,7 +2,10 @@
 # ☀ SkyPeek WeatherBot by QuestCease ☀
 **How to view:**
 
-*Try the link below:*
+* It is made using Telegram-bot-api
+* Backend made in Node.js and Deployed in Heroku.
+
+* Try the link below:*
 
 -> https://questcease-weatherbot.herokuapp.com/
 
@@ -12,3 +15,4 @@
 
 -> You see the full weather info 🌤 
 
+Contributors : phisham, Ashish-Abraham
