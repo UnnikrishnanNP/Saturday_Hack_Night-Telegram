@@ -15,4 +15,4 @@
 
 -> You see the full weather info 🌤 
 
-Contributors : phisham, Ashish-Abraham
+Contributors : @phisham, @Ashish-Abraham
