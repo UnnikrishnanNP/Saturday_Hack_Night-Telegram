@@ -4,7 +4,7 @@
 
 ---
 
-![joy_bot logo](logo.jpg)
+![joy_bot logo](img/logo.jpg)
 
 ## About Joy Bot
 
@@ -19,6 +19,10 @@ tiny creative coding library in Python which can be used create our own shapes a
 - Send the joy code
 - Here you go!!
 
+## Screenshots
+![out1](img/out1.png)
+![out2](img/out2.png)
+
 ## Techs/Libraries Used
 
 - [Python](https://www.python.org/)
@@ -32,3 +36,4 @@ tiny creative coding library in Python which can be used create our own shapes a
 
 - [Rijfas](https://github.com/rijfas)
 - [Faiz](https://github.com/FaizArifUP)
+- [Unnikrishnan](https://github.com/UnnikrishnanNP)
