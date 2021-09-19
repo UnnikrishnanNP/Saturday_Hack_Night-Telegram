@@ -6,7 +6,7 @@
 
 -> https://questcease-weatherbot.herokuapp.com/
 
--> Open the telegram bot link
+-> Once you start to chat with our Telegram WeatherBot ,
 
 -> Type /weather CITYNAME
 
